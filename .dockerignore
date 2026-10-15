@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env
+.env.*
+*.md
+__pycache__
+*.pyc
+*.pyo
+*.gguf
+models/
+data/
+.venv
+venv/
+.pytest_cache
+.mypy_cache
+railway.toml
